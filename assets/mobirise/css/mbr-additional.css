@@ -1030,7 +1030,7 @@ a {
   }
 }
 .cid-unzKqZobLy {
-  background-image: url("../../../assets/images/dscf3031-dxo-1-2000x1333.jpg");
+  background-image: url("../../../assets/images/dscf3029-dxo-2000x1333.jpg");
 }
 .cid-unzKqZobLy .social-row .soc-item {
   display: inline-block;
@@ -1057,6 +1057,10 @@ a {
 .cid-unzKqZobLy .mbr-text,
 .cid-unzKqZobLy .mbr-section-btn,
 .cid-unzKqZobLy .social-row {
+  color: #bbbbbb;
+  text-align: left;
+}
+.cid-unzKqZobLy .mbr-section-subtitle {
   color: #000000;
   text-align: left;
 }
@@ -2168,7 +2172,7 @@ a {
 }
 .cid-unZG6O5ZcM {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-unZG6O5ZcM .mbr-fallback-image.disabled {
