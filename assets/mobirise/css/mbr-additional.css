@@ -1030,7 +1030,7 @@ a {
   }
 }
 .cid-unzKqZobLy {
-  background-image: url("../../../assets/images/untitled-presentation-1.svg");
+  background-image: url("../../../assets/images/untitled-presentation-3-cropped.svg");
 }
 .cid-unzKqZobLy .social-row .soc-item {
   display: inline-block;
@@ -1052,7 +1052,7 @@ a {
 }
 .cid-unzKqZobLy .mbr-section-title {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
 }
 .cid-unzKqZobLy .mbr-text,
 .cid-unzKqZobLy .mbr-section-btn,
@@ -1062,7 +1062,10 @@ a {
 }
 .cid-unzKqZobLy .mbr-section-subtitle {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
+}
+.cid-unzKqZobLy .mbr-section-subtitle DIV {
+  text-align: right;
 }
 .cid-unzSfbuwcD {
   padding-top: 5rem;
